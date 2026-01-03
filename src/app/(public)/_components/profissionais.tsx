@@ -1,4 +1,4 @@
-import { Card, CardBody, CardFooter, CardHeader , CardTitle, CardDescription, CardImage, CardContent,} from "@/components/ui/card";
+import { Card, CardFooter, CardHeader, CardTitle, CardDescription, CardContent } from "@/components/ui/card";
 import Image from "next/image";
 import fotoPerfil from "../../../../public/perfil.jpeg"
 import Link from "next/link";
